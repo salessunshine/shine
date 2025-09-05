@@ -85,13 +85,14 @@ a {
 
 .btn-inv {
   color: rgba(var(--themeColor), 1);
-  background: #fff;
+  background: #2d1010;
 }
 
 .btn-sm {
   padding: 1.3rem 2rem;
   font-size: 1.6rem;
   border: none;
+  background: #2d1010;
 }
 
 .main-container {
