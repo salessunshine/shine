@@ -74,6 +74,13 @@ html {
   scroll-behavior: smooth;
 }
 
+.main-container {
+  background-color: black;   /* black background */
+  color: white;             /* all text inside turns white */
+  padding: 40px;            /* space inside the container */
+  border-radius: 10px;      /* optional: rounded edges */
+}
+
 /* About section */
 .about {
   background: #000000;   /* pure black background */
