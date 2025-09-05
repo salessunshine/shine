@@ -85,14 +85,13 @@ a {
 
 .btn-inv {
   color: rgba(var(--themeColor), 1);
-  background: #2d1010;
+  background: #fff;
 }
 
 .btn-sm {
   padding: 1.3rem 2rem;
   font-size: 1.6rem;
   border: none;
-  background: #2d1010;
 }
 
 .main-container {
@@ -507,7 +506,7 @@ a {
 /* Skills Showcase */
 
 .skills-showcase {
-  background: rgb(255, 173, 211);
+  background: rgba(247, 247, 247, 1);
   padding: 5rem 3rem;
 }
 
