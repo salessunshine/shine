@@ -76,7 +76,7 @@ html {
 
 /* About section */
 .about {
-  background: #000;   /* pure black background */
+  background: #000000;   /* pure black background */
   color: #fff;        /* default text color white */
   padding: 6rem 2rem; /* add some spacing if needed */
 }
