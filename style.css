@@ -5,6 +5,39 @@
   font-family: inherit;
 }
 
+/* Header styling */
+.main-header {
+  background: #000;            /* pure black */
+  padding: 1rem 2rem;
+}
+
+/* Logo text */
+.main-header__logo-text {
+  color: #fff;                 /* white */
+  font-weight: 700;            /* bold */
+}
+
+/* Navigation links */
+.main-header__navigation-link a {
+  color: #fff;                 /* white text */
+  font-weight: 700;            /* bold */
+  transition: color 0.3s ease;
+}
+
+.main-header__navigation-link a:hover {
+  color: rgb(var(--themeColor)); /* hot pink on hover */
+}
+
+/* Small-screen menu links */
+.main-header__sm-menu-link {
+  color: #fff;
+  font-weight: 700;
+}
+.main-header__sm-menu-link:hover {
+  color: rgb(var(--themeColor));
+}
+
+
 :root {
   --themeColor: 255, 20, 147; /* Hot Pink */
 }
