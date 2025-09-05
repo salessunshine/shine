@@ -43,7 +43,7 @@
 .home-hero__info,
 .home-hero__heading-primary,
 .home-hero__heading-primary span {
-  color: #fff;
+  color: #ffffff;
 }
 
 /* About section text */
@@ -54,14 +54,14 @@
 .about__heading-quaternary,
 .about__text-primary,
 .about__skills li {
-  color: #fff;
+  color: #ffffff;
 }
 
 /* Skills showcase icons & text */
 .skills-showcase,
 .skills-showcase__list,
 .skills-showcase__list-item {
-  color: #fff;
+  color: #ffffff;
 }
 
 
