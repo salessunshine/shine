@@ -74,6 +74,39 @@ html {
   scroll-behavior: smooth;
 }
 
+/* About section */
+.about {
+  background: #000;   /* pure black background */
+  color: #fff;        /* default text color white */
+  padding: 6rem 2rem; /* add some spacing if needed */
+}
+
+/* Headings inside About */
+.about h2,
+.about h3,
+.about__heading-quaternary {
+  color: #fff;        /* white headings */
+  font-weight: 700;
+}
+
+/* Paragraph text */
+.about__text-primary {
+  color: #fff;        /* white text */
+  line-height: 1.6;
+  font-size: 1.6rem;
+}
+
+/* Skills list */
+.about__skills li {
+  background: rgb(var(--themeColor)); /* hot pink badges */
+  color: #fff;                        /* white text */
+  padding: 0.6rem 1.2rem;
+  border-radius: 6px;
+  display: inline-block;
+  margin: 0.5rem;
+  font-weight: 600;
+}
+
 /* 75em === 1200px */
 @media (max-width: 75em) {
   html {
