@@ -89,6 +89,23 @@ html {
   font-weight: 700;
 }
 
+.btn-theme {
+  background-color: hotpink;   /* button color */
+  color: white;               /* text color */
+  border: none;               /* remove border */
+  padding: 10px 20px;         /* spacing */
+  border-radius: 5px;         /* rounded edges */
+  font-weight: bold;          /* bolder text */
+  cursor: pointer;            /* pointer on hover */
+  transition: 0.3s ease;      /* smooth hover */
+  text-decoration: none;      /* remove underline (for <a>) */
+  display: inline-block;
+}
+
+.btn-theme:hover {
+  background-color: #ff66b2;  /* lighter pink on hover */
+}
+
 /* Paragraph text */
 .about__text-primary {
   color: #fff;        /* white text */
