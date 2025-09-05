@@ -19,7 +19,7 @@
 
 /* Navigation links */
 .main-header__navigation-link a {
-  color: #fff;                 /* white text */
+  color: #000000;                 /* white text */
   font-weight: 700;            /* bold */
   transition: color 0.3s ease;
 }
