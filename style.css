@@ -30,11 +30,38 @@
 
 /* Small-screen menu links */
 .main-header__sm-menu-link {
-  color: #fff;
+  color: #000000;
   font-weight: 700;
 }
 .main-header__sm-menu-link:hover {
   color: rgb(var(--themeColor));
+}
+
+/* Home hero text */
+.home-hero,
+.home-hero__content,
+.home-hero__info,
+.home-hero__heading-primary,
+.home-hero__heading-primary span {
+  color: #fff;
+}
+
+/* About section text */
+.about,
+.about__info,
+.about__main-info,
+.about__skill-info,
+.about__heading-quaternary,
+.about__text-primary,
+.about__skills li {
+  color: #fff;
+}
+
+/* Skills showcase icons & text */
+.skills-showcase,
+.skills-showcase__list,
+.skills-showcase__list-item {
+  color: #fff;
 }
 
 
