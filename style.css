@@ -83,6 +83,8 @@ html {
 
 .about__text-primary {
   text-align: justify;
+  color: #ffffff; /* white text */
+  line-height: 1.6; /* optional: makes it easier to read */
 }
 
 /* About section */
