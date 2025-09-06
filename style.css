@@ -81,6 +81,10 @@ html {
   border-radius: 10px;      /* optional: rounded edges */
 }
 
+.about__text-primary {
+  text-align: justify;
+}
+
 /* About section */
 .about {
   background: #000000;   /* pure black background */
