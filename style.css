@@ -137,6 +137,20 @@ html {
   font-weight: 600;
 }
 
+.projects {
+  background-color: #000000; /* black background */
+  color: #ffffff; /* white text */
+}
+
+.projects h2,
+.projects h3,
+.projects p,
+.projects span,
+.projects li,
+.projects a {
+  color: #ffffff;
+}
+
 /* 75em === 1200px */
 @media (max-width: 75em) {
   html {
